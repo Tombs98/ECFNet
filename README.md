@@ -1,8 +1,7 @@
 # Emphasizing Crucial Features for Efficient Image Restoration
 
 
-## Our code will be publiced soon
-
+## Our complete code will be published upon acceptance of the paper
 
 
 ## Quick Run
